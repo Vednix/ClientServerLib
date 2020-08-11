@@ -1,0 +1,5 @@
+C:\Users\fabio\Downloads\ClientServerLib\ClientServerLib\obj\Debug\ClientServerLib.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Downloads\ClientServerLib\ClientServerLib\bin\Debug\ClientServerLib.dll
+C:\Users\fabio\Downloads\ClientServerLib\ClientServerLib\bin\Debug\ClientServerLib.pdb
+C:\Users\fabio\Downloads\ClientServerLib\ClientServerLib\obj\Debug\ClientServerLib.dll
+C:\Users\fabio\Downloads\ClientServerLib\ClientServerLib\obj\Debug\ClientServerLib.pdb
